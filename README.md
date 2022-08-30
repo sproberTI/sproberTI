@@ -17,7 +17,7 @@
 </div>
 
 
-![Roberto GitHub stats](https://github-readme-stats.vercel.app/api?username=sproberti&show_icons=true&theme=radical)
+
 
 
 
